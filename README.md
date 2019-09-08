@@ -1,2 +1,2 @@
 # Data-Structures
-Talaga's Data Structures class Fall 2015
+Talaga's Data Structures class 
